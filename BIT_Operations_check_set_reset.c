@@ -22,7 +22,7 @@ void printBinary(int n)
     printf("\n\n");
 }
 
-void main()
+void main(void)
 {
     int num;
     printBinary(CNUM);
